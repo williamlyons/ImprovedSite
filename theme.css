@@ -1,0 +1,61 @@
+body {
+  padding-top: 70px;
+  padding-bottom: 30px;
+}
+
+.theme-dropdown .dropdown-menu {
+  position: static;
+  display: block;
+  margin-bottom: 20px;
+}
+
+.theme-showcase > p > .btn {
+  margin: 5px 0;
+}
+
+.theme-showcase .navbar .container {
+  width: auto;
+}
+.jumbotron{
+  border-color: #FFD700;
+  border-width: 6px;
+  border-style: ridge;
+  text-align: center;
+}
+.well{
+  border-color: #FFD700;
+  border-width: 4px;
+  border-style: ridge;
+}
+nav {
+  background-color: #0000FF;
+  border-color: #FFD700;
+  border-width: 4px;
+  border-style: ridge;
+}
+.page-header{
+  border-bottom-color: #808080;
+  border-bottom-width: 3px;
+}
+.background{
+  border-color: #FFD700;
+  border-width: 4px;
+  border-style: ridge;
+  background-color: rgba(200, 200, 200, .2);
+}
+img{
+  min-width: 80%;
+  margin-right: auto;
+  margin-left: auto;
+}
+.row{
+  border-color: #FFD700;
+  border-width: 4px;
+  border-style: ridge;
+  background-color: rgba(200, 200, 200, .2);
+}
+.tablecenter{
+  margin:0 auto;
+  float: none;
+}
+
