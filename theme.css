@@ -23,13 +23,13 @@ body {
   border-width: 6px;
   border-style: ridge;
   text-align: center;
-  background-color:rgba(200, 200, 200, .5);
+  background-color:rgba(200, 0, 0, .5);
 }
 .well{
   border-color: #FFD700;
   border-width: 4px;
   border-style: ridge;
-  background-color:rgba(200, 200, 200, .5);
+  background-color:rgba(200, 0, 0, .5);
 }
 nav {
   background-color: #0000FF;
@@ -40,7 +40,7 @@ nav {
 .page-header{
   border-bottom-color: #FFFFFF;
   border-bottom-width: 3px;
-  background-color:rgba(200, 200, 200, .5);
+  background-color:rgba(200, 0, 0, .5);
 }
 .background{
   border-color: #FFD700;
