@@ -23,7 +23,7 @@ body {
   border-width: 6px;
   border-style: ridge;
   text-align: center;
-  background-color:rgba(200, 0, 0, .5);
+  
 }
 .well{
   border-color: #FFD700;
@@ -63,13 +63,5 @@ img{
   margin:0 auto;
   float: none;
 }
-h1{
-  color: white;
-}
-h2{
-  color: white;
-}
-h3{
-  color: white;
-}
+
 
