@@ -30,6 +30,7 @@ body {
   border-width: 4px;
   border-style: ridge;
   background-color:rgba(200, 0, 0, .5);
+  
 }
 nav {
   background-color: #0000FF;
@@ -65,8 +66,7 @@ img{
   float: none;
 }
 h3{
-  vertical-align:middle;
-  color:white;
+  text-align:center;
 }
 
 
