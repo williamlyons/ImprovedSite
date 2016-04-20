@@ -1,6 +1,8 @@
 body {
   padding-top: 70px;
   padding-bottom: 30px;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
 }
 
 .theme-dropdown .dropdown-menu {
