@@ -19,22 +19,22 @@ body {
   width: auto;
 }
 .jumbotron{
-  border-color: #FFD700;
+  border-color: BLACK;
   border-width: 6px;
   border-style: ridge;
   text-align: center;
   
 }
 .well{
-  border-color: #FFD700;
+  border-color: BLACK;
   border-width: 4px;
   border-style: ridge;
-  background-color:rgba(200, 0, 0, .5);
+  color:rgba(200, 0, 0, .5);
   
 }
 nav {
   background-color: #0000FF;
-  border-color: #FFD700;
+  border-color: BLACK;
   border-width: 4px;
   border-style: ridge;
 }
@@ -44,7 +44,7 @@ nav {
   background-color:rgba(200, 0, 0, .5);
 }
 .background{
-  border-color: #FFD700;
+  border-color: BLACK;
   border-width: 4px;
   border-style: ridge;
   background-color: rgba(200, 200, 200, .2);
@@ -57,7 +57,7 @@ img{
   margin-left: auto;
 }
 .row{
-  border-color: #FFD700;
+  border-color: BLACK;
   border-width: 4px;
   border-style: ridge;
   background-color: rgba(200, 200, 200, .2);
