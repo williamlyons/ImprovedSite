@@ -24,14 +24,14 @@ body {
   border-style: ridge;
   text-align: center;
   color: WHITE;
-  background:rgba(100, 100, 100, .4);
+  background:rgba(100, 100, 100, .25);
   
 }
 .well{
   border-color: WHITE;
   border-width: 4px;
   border-style: ridge;
-  background:rgba(100, 100, 100, .4);
+  background:rgba(100, 100, 100, .25);
   color: WHITE;
   
 }
