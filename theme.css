@@ -23,6 +23,7 @@ body {
   border-width: 6px;
   border-style: ridge;
   text-align: center;
+  color: BLACK;
   
 }
 .well{
@@ -30,6 +31,7 @@ body {
   border-width: 4px;
   border-style: ridge;
   color:rgba(200, 0, 0, .5);
+  color: BLACK;
   
 }
 nav {
@@ -68,9 +70,11 @@ img{
 }
 h3{
   text-align:center;
+  color: BLACK;
 }
 h2{
   text-align:center;
+  color: BLACK;
 }
 
 
