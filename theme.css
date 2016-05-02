@@ -27,10 +27,10 @@ body {
   
 }
 .well{
-  border-color: BLACK;
+  border-color: RED;
   border-width: 4px;
   border-style: ridge;
-  color:rgba(200, 0, 0, .5);
+  background:rgba(200, 0, 0, .5);
   color: BLACK;
   
 }
